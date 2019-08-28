@@ -1,0 +1,11 @@
+C:\Users\Impis\Desktop\ICE02\Part 1\bin\Debug\netcoreapp2.2\Part 1.deps.json
+C:\Users\Impis\Desktop\ICE02\Part 1\bin\Debug\netcoreapp2.2\Part 1.runtimeconfig.json
+C:\Users\Impis\Desktop\ICE02\Part 1\bin\Debug\netcoreapp2.2\Part 1.runtimeconfig.dev.json
+C:\Users\Impis\Desktop\ICE02\Part 1\bin\Debug\netcoreapp2.2\Part 1.dll
+C:\Users\Impis\Desktop\ICE02\Part 1\bin\Debug\netcoreapp2.2\Part 1.pdb
+C:\Users\Impis\Desktop\ICE02\Part 1\obj\Debug\netcoreapp2.2\Part 1.csprojAssemblyReference.cache
+C:\Users\Impis\Desktop\ICE02\Part 1\obj\Debug\netcoreapp2.2\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\Impis\Desktop\ICE02\Part 1\obj\Debug\netcoreapp2.2\Part 1.AssemblyInfoInputs.cache
+C:\Users\Impis\Desktop\ICE02\Part 1\obj\Debug\netcoreapp2.2\Part 1.AssemblyInfo.cs
+C:\Users\Impis\Desktop\ICE02\Part 1\obj\Debug\netcoreapp2.2\Part 1.dll
+C:\Users\Impis\Desktop\ICE02\Part 1\obj\Debug\netcoreapp2.2\Part 1.pdb
